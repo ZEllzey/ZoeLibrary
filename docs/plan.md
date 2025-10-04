@@ -1,5 +1,3 @@
-A project plan that includes a risk analysis (using the TAME framework) and a simple task schedule (Work Breakdown Structure) for your project, based on PMUPM Chapter 4.
-
 <h3> Risk Analysis </h3>
 
 <p> Possible risks identified are:
