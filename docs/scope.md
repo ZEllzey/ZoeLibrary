@@ -4,7 +4,7 @@
 To provide an easily accessable catolog of my personal librabry that will allow me to view information about the books I have, for example title, genre, length, and "to be read" status. This will allow me to make informed desicions about what to read next.
 
 <h2> Description </h2>
-I want to included a sorted catolog abiut all the specific about the books I own. This will display the books title, genre, author, page count, and if I have read the book or not. I will have to manually catalog and input this information by hand so it will be accessable.
+I want to included a sorted catolog about all the specific about the books I own. This will display the books title, genre, author, page count, and if I have read the book or not. I will have to manually catalog and input this information by hand so it will be accessable.
 
 <h2> Desired Results </h2>
 Create a way to catalog the books I have read and those I plan to read and be able to view my options easily. This will prove useful while I no longer have to tear my bookshelf apart to find the book I want to read next.
